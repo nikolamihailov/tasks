@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.0\ConsoleApp5.exe
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.0\ConsoleApp5.deps.json
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.0\ConsoleApp5.runtimeconfig.json
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.0\ConsoleApp5.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.0\ConsoleApp5.dll
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.0\ConsoleApp5.pdb
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.0\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.0\ConsoleApp5.dll
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.0\ConsoleApp5.pdb
